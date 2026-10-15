@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g5NbAyXZXx4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harryc\\RiderProjects\\MatchIt\\src\\MatchIt.MatchReplacement.Host\\MatchIt.MatchReplacement.Host.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harryc\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
